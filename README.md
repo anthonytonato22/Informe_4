@@ -1,4 +1,4 @@
- UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
+UNIVERSIDAD DE LAS FUERZAS ARMADAS (ESPE)
 
 NOMBRE DEL ESTUDIANTE: TONATO CHALCO JHON ANTHONY
 
@@ -13,7 +13,7 @@ TEMA: CAPÍTULO 7: CIRCUITOS EN SERIE-PARALELO
 
 1. OBJETIVOS
 
-objetivos generales
+Objetivos generales
 
 Analizar los conceptos e identificar circuitos en serie-paralelo con la finalidad de resolver problemas y ejercicios
 
